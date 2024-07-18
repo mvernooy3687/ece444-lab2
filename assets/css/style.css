@@ -423,8 +423,8 @@ h3 {
 }
 
 #experience .card .col.s12.m2 a img {
-  height: 60px;
-  width: 60px;
+  height: 60px !important;
+  width: 60px !important;
   object-fit: cover;
 }
 
