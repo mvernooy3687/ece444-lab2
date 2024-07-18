@@ -423,10 +423,17 @@ h3 {
 }
 
 #experience .card .col.s12.m2 a img {
-  height: 60px !important;
-  width: 60px !important;
+  height: 60px;
+  width: 60px;
   object-fit: cover;
 }
+
+#experience .card .col.s12.m1 a img {
+  height: 60px;
+  width: 60px;
+  object-fit: scale-down;
+}
+
 
 .card-action span {
   font-size: 85%;
