@@ -488,8 +488,8 @@ a.hoverline:hover {
 
 #skills .col img.responsive-img {
   margin: 0 auto;
-  height: 100px;
-  width: 100px;
+  height: 120px;
+  width: 120px;
   object-fit: cover;
   padding-bottom: 10px;
   text-align: center;
